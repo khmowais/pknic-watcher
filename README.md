@@ -54,7 +54,7 @@ EMAIL_TO = "your_email@gmail.com"
 
 ---
 
-##Automate with Cron
+## Automate with Cron
 
 Check the domain periodically by adding a cron job:
 
@@ -70,6 +70,6 @@ For example to run every 30 minutes:
 
 ---
 
-## ⚡ Notes
+## Notes
 * Add more domains in the `DOMAINS` list if needed.
 * The script stores last-known domain states locally in `STATE_DIR` (`~/pknic_state` by default).
